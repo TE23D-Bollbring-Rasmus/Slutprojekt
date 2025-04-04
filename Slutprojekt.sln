@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slutprojekt", "Slutprojekt\Slutprojekt.csproj", "{3A91C5A8-D56F-41DA-849E-B9E9D38C1DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A91C5A8-D56F-41DA-849E-B9E9D38C1DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A91C5A8-D56F-41DA-849E-B9E9D38C1DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A91C5A8-D56F-41DA-849E-B9E9D38C1DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A91C5A8-D56F-41DA-849E-B9E9D38C1DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
